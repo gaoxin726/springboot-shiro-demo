@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f73da488-b18a-4663-bc5a-7fc650139b36" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/111.txt" beforeDir="false" afterPath="$PROJECT_DIR$/111.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f73da488-b18a-4663-bc5a-7fc650139b36" name="Default" comment="测试中" />
     <ignored path="springboot-shiro-demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -188,6 +185,11 @@
         <option name="mavenHome" value="G:/apache-maven-3.5.0" />
         <option name="userSettingsFile" value="G:\apache-maven-3.5.0\conf\settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -527,12 +529,20 @@
       <option name="presentableId" value="Default" />
       <updated>1562983890617</updated>
       <workItem from="1562983893051" duration="6557000" />
-      <workItem from="1563156106022" duration="55000" />
+      <workItem from="1563156106022" duration="677000" />
     </task>
+    <task id="LOCAL-00001" summary="测试中">
+      <created>1563156227907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563156227907</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6612000" />
+    <option name="totallyTimeSpent" value="7234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="1" width="1548" height="829" extended-state="0" />
@@ -558,7 +568,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.40968123" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32986626" />
       <window_info anchor="bottom" id="JRebel Executor" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
@@ -578,6 +588,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试中" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试中" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
